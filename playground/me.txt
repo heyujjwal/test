@@ -1,5 +1,0 @@
-
-Name: Ujjwal Gupta
-Skills: HTML, CSS, JS, Next.js , React.js, Node.js, Express.js, MongoDB, Github, Git
-Email: guptaujjwal259@gmail.com
-
